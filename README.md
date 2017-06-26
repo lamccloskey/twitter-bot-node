@@ -17,7 +17,7 @@ First, take a look at [Build a simple Twitter Bot with Node.js in just 38 lines 
     * `TWITTER_CONSUMER_SECRET`
     * `TWITTER_ACCESS_TOKEN_KEY`
     * `TWITTER_ACCESS_TOKEN_SECRET`
-5. run app.js
+5. Run `node app.js`
 
 ---
 Inspired by [bmorelli25/Twitter-Favorite-Bot](https://github.com/bmorelli25/Twitter-Favorite-Bot)
