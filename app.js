@@ -20,7 +20,7 @@ prompt.get(config.promptSchema, function (err, result) {
             data
                 .statuses
                 .forEach(function (element, index, array) {
-                    interactions.favoriteTweets({id: element.id_str});
+                    interactions.favoriteTweet({id: element.id_str});
                 }, this);
         });
     }

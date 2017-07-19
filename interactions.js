@@ -15,7 +15,7 @@ exports.searchTweets = function (params, callback) {
         });
 }
 
-exports.favoriteTweets = function (id) {
+exports.favoriteTweet = function (id) {
     client
         .post('favorites/create', id, function (err, response) {
             if (err) {
