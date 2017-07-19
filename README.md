@@ -8,11 +8,9 @@ Currently, only searches Twitter and favorites the tweets that are found
 ##  Preview
 ![alt text](twitter-bot.gif "preview")
 
----
 ## Getting Started
 First, take a look at [Build a simple Twitter Bot with Node.js in just 38 lines of code](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)
 
----
 ## Install
 1. Clone or download `https://github.com/lamccloskey/twitter-bot-node.git`
 2. Enter folder `cd twitter-bot-node/`
